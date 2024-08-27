@@ -14,6 +14,7 @@ Compétences :
 - Gestion de projet avec Scrum
 - Méthodes agiles, management d'équipes
 - Lien vers la certification : [PSM I Certification](https://www.scrum.org/certificates/1015489)
+- [Télécharger le certificat PDF](certificats/202310_Professional_Scrum_Master_I.pdf)
 
 ---
 
@@ -26,6 +27,15 @@ Compétences :
 - Gestion de produits en environnement agile
 - Création de valeur avec Scrum
 - Lien vers la certification : [PSPO I Certification](https://www.scrum.org/certificates/1016526)
+- [Télécharger le certificat PDF](certificats/202310_Professional_Scrum_Product_Owner_I.pdf)
+
+---
+
+## Microsoft Learn Transcript
+**Historique des certifications Microsoft**
+Date de mise à jour : Juillet 2024
+- Lien vers la certification : [Microsoft Learning Transcript](https://learn.microsoft.com/fr-fr/users/davidpro/transcript/d5gzxf1r243r01l?tab=tab-learning-paths)
+- [Télécharger le certificat PDF](201406_ITIL_Certification.pdf)
 
 ---
 
@@ -36,6 +46,7 @@ Identifiant de la certification : OFPCV1
 Compétences :
 - Conformité RGPD, gestion des données personnelles
 - Règlement général sur la protection des données (RGPD)
+- [Télécharger le certificat PDF](certificats/202009_Diplome_ORSYS_ATLAN_DAVID_OFPCV1.pdf)
 
 ---
 
@@ -66,6 +77,7 @@ Identifiant de la certification : 02879983-01-3N4T
 Compétences :
 - Bonnes pratiques pour le management des services informatiques
 - Gestion des processus ITIL
+- [Télécharger le certificat PDF](201406_ITIL_Certification.pdf)
 
 ---
 
@@ -86,6 +98,7 @@ Identifiant de la certification : 190901-131-0176v35
 Compétences :
 - Gestion des sauvegardes et restauration
 - Administration des infrastructures de stockage
+- [Télécharger le certificat PDF](certificats/200109_Atempo_TiNa35.pdf)
 
 ---
 
@@ -96,6 +109,7 @@ Identifiant de la certification : CTX-1221
 Compétences :
 - Administration des environnements Citrix
 - Conception d'infrastructures informatiques
+- [Télécharger le certificat PDF](certificats/200203_Citrix_MetaFrameXP.pdf)
 
 ---
 
@@ -106,6 +120,7 @@ Identifiant de la certification : o5epar5008
 Compétences :
 - Gestion des ventes pour les solutions Cisco
 - Conception d'infrastructures réseau
+- [Télécharger le certificat PDF](certificats/200701_Examen_CISCO_SMB_Select.pdf)
 
 ---
 
