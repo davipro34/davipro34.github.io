@@ -23,6 +23,7 @@ Technologies :
 - **Langages et Frameworks** : Java, Angular 14, Spring, API REST, SQL, PostgreSQL, GitHub.
 - France compétences : [Lien vers l'expertise](https://www.francecompetences.fr/recherche/rncp/36912/)
 - Plus d’informations : [Parcours OpenClassrooms](https://openclassrooms.com/fr/paths/533-developpeur-full-stack-java-et-angular)
+- [Télécharger l'attestation PDF](certificats/20240827_DevFullStack_OpenClassrooms_proof-of-completion.pdf)
 
 ---
 
@@ -42,6 +43,7 @@ Diplôme :
 - Chef de Projet Digital, Titre RNCP31187
 - France compétences : [Lien vers l'expertise](https://www.francecompetences.fr/recherche/rncp/31187/)
 - Plus d’informations : [Parcours OpenClassrooms](https://openclassrooms.com/fr/paths/150-chef-de-projet-digital)
+- [Télécharger le diplôme PDF](certificats/20230724_Diplome_CDP_Digital_David_Atlan.pdf)
 
 ---
 
@@ -56,6 +58,7 @@ Compétences : HTML5, CSS3, JavaScript, Git.
 **Certification PSPO 1 officielle | Juin 2023**
 - Certification URL : [Certification Scrum Product Owner PSPO I](https://www.scrum.org/certificates/1016526)
 - Compétences : Gestion de produits agile avec Scrum, création de valeur à travers les frameworks agiles.
+- [Télécharger le certificat PDF](certificats/202310_Professional_Scrum_Product_Owner_I.pdf)
 
 ---
 
@@ -63,6 +66,7 @@ Compétences : HTML5, CSS3, JavaScript, Git.
 **Certification PSM 1 officielle | Juin 2023**
 - Certification URL : [Certification Scrum Master PSM I](https://www.scrum.org/certificates/1015489)
 - Compétences : Maîtrise du framework Scrum et des responsabilités d'un Scrum Master.
+- [Télécharger le certificat PDF](certificats/202310_Professional_Scrum_Master_I.pdf)
 
 ---
 
@@ -70,6 +74,7 @@ Compétences : HTML5, CSS3, JavaScript, Git.
 **ORSYS | Sept. 2020**
 - Formation au RGPD et au rôle de DPO.
 - Compétences : Protection des données, conformité légale, gestion du risque RGPD.
+- [Télécharger le certificat PDF](certificats/202009_Diplome_ORSYS_ATLAN_DAVID_OFPCV1.pdf)
 
 ---
 
@@ -77,6 +82,7 @@ Compétences : HTML5, CSS3, JavaScript, Git.
 **Global Knowledge | Juin 2014**
 - Bonnes pratiques du management des systèmes d’information.
 - Compétences : Gestion des services informatiques, conception d’infrastructures informatiques.
+- [Télécharger le certificat PDF](certificats/201406_ITIL_Certification.pdf)
 
 ---
 
@@ -103,5 +109,10 @@ Compétences : HTML5, CSS3, JavaScript, Git.
 ## Vendeur, Vente et Marketing
 **Centre de Formation Racine à Villeurbanne | 1994**
 Compétences : Service client, marketing digital.
+
+---
+
+## Microsoft Certifications
+- [Télécharger la transcription PDF](certificats/202408_Transcription_MicrosoftLearn.pdf)
 
 [Retour à l'accueil](index.md)
