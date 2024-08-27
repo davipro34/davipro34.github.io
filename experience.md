@@ -5,41 +5,12 @@ title: Expérience Professionnelle
 
 # Expérience Professionnelle
 
-## Étudiant : Développeur FullStack - OpenClassrooms
-**Déc. 2023 - Aujourd'hui | Lattes, Occitanie, France (Hybride)**
-Développement Full-Stack :
-- **Back-End** : Java et le framework Spring
-- **Front-End** : TypeScript et le framework Angular
-Compétences supplémentaires :
-- Audit des fonctionnalités et de l'architecture d’une application existante
-- Anticipation des coûts et risques potentiels d’un projet
-- Conception de l’architecture et des composants logiciels d’une application en respect de la législation
-- Création de plans de test, de sécurité et de sauvegarde des données
-- Validation de solutions techniques avec les parties prenantes
-- Intégration du front-end et du back-end via une API
-- Rédaction de tests automatiques (front-end et back-end)
-- Garantir un produit de qualité via l'intégration et la livraison continues
-- Supervision de projets en équipe
-
----
-
 ## Chef de Projet Agile, Développeur Flutter, Web et WordPress - ideap.fr
 **Mai 2022 - Aujourd'hui | Montpellier, Occitanie, France**
 - Accompagnement des clients dans leurs projets de digitalisation.
 - Recueil des besoins, rédaction de spécifications techniques et fonctionnelles.
 - Développement de sites web et applications mobiles (Flutter).
 - Github : [https://github.com/davipro34](https://github.com/davipro34)
-
----
-
-## Étudiant : Chef de Projet Digital - OpenClassrooms
-**2020 - 2023 | Lattes, Occitanie, France**
-- Conception et développement de sites et d’applications web.
-- Audits et benchmarks sur des sites web.
-- Rédaction de spécifications fonctionnelles et techniques pour divers projets.
-- Gestion du risque projet, gestion Agile et méthodes de design intégrant l'UX.
-- Marketing digital et SEO.
-- Projets Wordpress : [https://c2circuitcoaching.davipro.fr](https://c2circuitcoaching.davipro.fr), [https://projet4.ideap.fr](https://projet4.ideap.fr).
 
 ---
 
