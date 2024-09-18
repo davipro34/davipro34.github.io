@@ -15,7 +15,7 @@ title: Expérience Professionnelle
 ---
 
 ## Chef de Projet IT - INFODIAL
-**Juil. 2018 - 2022 | Saint-Clément, Languedoc-Roussillon, France**
+**Juil. 2018 - Avr. 2022 | Saint-Clément, Languedoc-Roussillon, France**
 - Diriger l'orientation technologique de la société.
 - Constitution du catalogue de produits et services.
 - Gestion des contrats avec partenaires technologiques.
@@ -29,7 +29,7 @@ title: Expérience Professionnelle
 ---
 
 ## Directeur technique et chef de projet IT et Web - INTERSED Informatique
-**2005 - Nov. 2016 | Lyon, France**
+**Oct. 2005 - Nov. 2016 | Lyon, France**
 - Responsable technique de l'entreprise, gestion des équipes techniques.
 - Conception, déploiement et support de l'infrastructure cloud Nuagis.
 - Déploiement de solutions technologiques (GLPI, FusionInventory, CRM).
