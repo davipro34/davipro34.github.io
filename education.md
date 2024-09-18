@@ -6,9 +6,7 @@ title: Formation
 # Formation
 
 ## Développeur Full-Stack - Java et Angular
-**OpenClassrooms (Niveau 7 / Bac+5)**
-_Nov. 2023 - Aout 2024_
-Expert en développement logiciel :
+**Nov. 2023 - Aout 2024 | OpenClassrooms (Niveau 7 / Bac+5) Expert en développement logiciel**
 - Maîtrise du développement web complet avec Angular et Java.
 - Choix des outils et paradigmes de programmation.
 - Développement front-end et back-end, intégration continue, et livraison.
@@ -21,23 +19,25 @@ Compétences :
 
 Technologies :
 - **Langages et Frameworks** : Java, Angular 14, Spring, API REST, SQL, PostgreSQL, GitHub.
+
+Diplôme :
+- Expert en développement logiciel : Titre RNCP36912
 - France compétences : [Lien vers l'expertise](https://www.francecompetences.fr/recherche/rncp/36912/)
 - Plus d’informations : [Parcours OpenClassrooms](https://openclassrooms.com/fr/paths/533-developpeur-full-stack-java-et-angular)
 - [Télécharger l'attestation PDF](certificats/20240827_DevFullStack_OpenClassrooms_proof-of-completion.pdf)
 
 ---
 
-## Chef de Projet Digital
-**OpenClassrooms (Niveau 6 / Bac +3)**
-_Fév. 2021 - Juil. 2023_
-- Gestion de projet (Agile, cascade, gestion du risque).
-- UI et UX Design, Web Marketing, Social Marketing.
-- Développement sous WordPress.
+### Chef de Projet Digital
+**Fév. 2021 - Juil. 2023 | OpenClassrooms (Niveau 6 / Bac +3)**
+- Formation complète en gestion de projet, incluant les méthodes Agile et en cascade, ainsi que la gestion des risques.
+- Élaboration de spécifications fonctionnelles et techniques, avec un focus sur l'UI/UX Design et le marketing digital.
+- Expérience pratique dans le développement de sites Internet sous WordPress.
 
 Compétences :
-- Gestion de projet en méthodes agiles (Scrum, Kanban).
-- Création de spécifications fonctionnelles et techniques.
-- Sens de l’organisation, design UX, marketing digital.
+- Expertise en gestion de projet, notamment avec les méthodes agiles telles que Scrum et Kanban.
+- Rédaction de spécifications fonctionnelles et techniques.
+- Aptitudes en organisation, design UX, et marketing digital.
 
 Diplôme :
 - Chef de Projet Digital, Titre RNCP31187
@@ -47,23 +47,23 @@ Diplôme :
 
 ---
 
-## Formation en ligne : Développement Web
-**2020 - 2021**
-Cours et travaux pratiques en développement web sur les plateformes OpenClassrooms et FreeCodeCamp.
-Compétences : HTML5, CSS3, JavaScript, Git.
+## Autoformation en ligne : Développement Web et Flutter
+**Janv. 2020 - Déc. 2021**
+- Cours et travaux pratiques en développement web sur les plateformes OpenClassrooms, FreeCodeCamp et autres.
+- Compétences : HTML5, CSS3, JavaScript, Git, Flutter.
 
 ---
 
-## Formation en ligne : SCRUM Product Owner
-**Certification PSPO 1 officielle | Juin 2023**
+## Certification : SCRUM Product Owner
+**Juin 2023 -  Juin 2023 | Certification PSPO 1 officielle**
 - Certification URL : [Certification Scrum Product Owner PSPO I](https://www.scrum.org/certificates/1016526)
 - Compétences : Gestion de produits agile avec Scrum, création de valeur à travers les frameworks agiles.
 - [Télécharger le certificat PDF](certificats/202310_Professional_Scrum_Product_Owner_I.pdf)
 
 ---
 
-## Formation en ligne : SCRUM Master
-**Certification PSM 1 officielle | Juin 2023**
+## Certification : SCRUM Master
+**Juin 2023 -  Juin 2023 Certification PSM 1 officielle**
 - Certification URL : [Certification Scrum Master PSM I](https://www.scrum.org/certificates/1015489)
 - Compétences : Maîtrise du framework Scrum et des responsabilités d'un Scrum Master.
 - [Télécharger le certificat PDF](certificats/202310_Professional_Scrum_Master_I.pdf)
@@ -71,35 +71,35 @@ Compétences : HTML5, CSS3, JavaScript, Git.
 ---
 
 ## Data Protection Officer (DPO), RGPD
-**ORSYS | Sept. 2020**
+**Sept. 2020 - Sept. 2020 | ORSYS**
 - Formation au RGPD et au rôle de DPO.
 - Compétences : Protection des données, conformité légale, gestion du risque RGPD.
 - [Télécharger le certificat PDF](certificats/202009_Diplome_ORSYS_ATLAN_DAVID_OFPCV1.pdf)
 
 ---
 
-## ITIL Foundation V3
-**Global Knowledge | Juin 2014**
+## Certification : ITIL Foundation V3
+**Juin 2014 - Juin 2014 | Global Knowledge**
 - Bonnes pratiques du management des systèmes d’information.
 - Compétences : Gestion des services informatiques, conception d’infrastructures informatiques.
 - [Télécharger le certificat PDF](certificats/201406_ITIL_Certification.pdf)
 
 ---
 
-## Gestion Financière de l’entreprise
-**CCI Hérault | Juin 2018**
+## Formation : Gestion Financière de l’entreprise
+**Juin 2018 - Juin 2018 | CCI Hérault**
 - Évaluation de la santé financière d'une entreprise, mise en place des outils de prévision et contrôle.
 
 ---
 
-## Reprise d'entreprise
-**CRA Formation | Mai 2018**
+## Formation : Reprise d'entreprise
+**Mai 2018 - Mai 2018 | CRA Formation**
 - Gestion globale d’une entreprise après une reprise, priorités des 100 premiers jours.
 
 ---
 
 ## Technicien Informatique Bureautique
-**AFPA Rillieux-la-Pape | 1999**
+**Janv. 1998 - Déc. 1999 | AFPA Rillieux-la-Pape**
 - Installation et dépannage des systèmes d’exploitation Windows et Linux.
 - Programmation en Assembleur et Basic.
 - Premier de promotion.
@@ -107,8 +107,8 @@ Compétences : HTML5, CSS3, JavaScript, Git.
 ---
 
 ## Vendeur, Vente et Marketing
-**Centre de Formation Racine à Villeurbanne | 1994**
-Compétences : Service client, marketing digital.
+**Janv. 1994 - Juin. 1994 | Centre de Formation Racine à Villeurbanne**
+Compétences : Techniques de vente, négociation, Service client, Marketing.
 
 ---
 
